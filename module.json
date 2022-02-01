@@ -5,8 +5,8 @@
     "version": "0.4.3",
     "library": "false",
     "manifestPlusVersion": "1.0.0",
-    "minimumCoreVersion": "0.9.2",
-    "compatibleCoreVersion": "0.9.2",
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
     "authors": [
         {
             "name": "sgrigson",
