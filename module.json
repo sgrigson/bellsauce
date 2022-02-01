@@ -2,7 +2,7 @@
     "name": "bellsauce",
     "title": "Bellsauce",
     "description": "A music streaming module for Foundry VTT. Every forge needs bellsauce!",
-    "version": "0.4.3",
+    "version": "0.4.4",
     "library": "false",
     "manifestPlusVersion": "1.0.0",
     "minimumCoreVersion": "0.9.2",
